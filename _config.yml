@@ -19,32 +19,7 @@ color:
     - '#0A202D'
     - '#A4C6D3'
     - '#F9C5C3'
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91671631-46a5-4b74-8921-19cd210bf1eb.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/91671631-46a5-4b74-8921-19cd210bf1eb.png
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 title: Odyszee
 description: Summer Store
 github: true
