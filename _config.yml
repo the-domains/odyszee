@@ -1,0 +1,63 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Odyszee
+layout_spectrum: 0.8970432903151959
+typography_spectrum: 0.5264040036126971
+color:
+  brandStrength: 0.19740977231413126
+  lightness: 0.3200897350907326
+  saturation: 0.16194678260944784
+  rhythmicContrast: 0.8938189677428454
+  brandColors:
+    - '#FFFFFF'
+    - '#EB595E'
+    - '#0A202D'
+    - '#A4C6D3'
+    - '#F9C5C3'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91671631-46a5-4b74-8921-19cd210bf1eb.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/91671631-46a5-4b74-8921-19cd210bf1eb.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Odyszee
+description: Summer Store
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef7230a6-00cb-4289-8f07-c3a4f4184d39.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/876741d8-7a20-4183-bd1e-f5c35a592623.png
+content_rating:
+  adult: false
+author:
+  name: Odyszee
+  email: summer@odyszee.be
+  url: 'https://odyszee.be'
+purpose:
+  - type: contact
+    url: 'mailto:summer@odyszee.be'
+    label: Contact us
